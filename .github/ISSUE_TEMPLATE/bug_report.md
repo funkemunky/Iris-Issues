@@ -15,6 +15,8 @@ A clear and concise description of what the bug is.
 - Atlas Version
 - Bukkit/Spigot Version
 
+**Are you using the ViaVersion plugin?**
+
 **Server Logs**
 Provide the server log of the time the bug occurred.
 
