@@ -11,11 +11,11 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Version Information**
-- Iris Anticheat Version
-- Atlas Version
-- Bukkit/Spigot Version
+- Iris Anticheat Version (Latest is not a version): 
+- Atlas Version (Latest is not a version): 
+- Bukkit/Spigot Version (Latest is not a version): 
 
-**Are you using the ViaVersion plugin?**
+**Are you using the ViaVersion plugin?**: 
 
 **Server Logs**
 Provide the server log of the time the bug occurred.
